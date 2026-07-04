@@ -43,6 +43,7 @@ Gosto de transformar teoria em prática: crio ferramentas de automação em Pyth
 ## 🇺🇸 About Me
 
 Hi, I'm Lorena! 👋
+
 Information Security Student | Focused on SOC, GRC & Python Automation
 
 I started my tech journey in 2021 with programming (Python, HTML/CSS/JS) and I am currently studying Information Security Technology at UNINOVE.
@@ -75,4 +76,4 @@ Confira os projetos fixados no meu perfil, incluindo ferramentas de automação 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-martins-a6a57a19b/)
 
 <p align="center"><i>Sempre aberta a novas oportunidades em SOC e GRC 🔐</i></p>
-*Always open to new opportunities in SOC, GRC, and Automation Freelance gigs!*
+<p align="center"><i>Always open to new opportunities in SOC,GRC,and Automation Freelance gigs!</i></p>
