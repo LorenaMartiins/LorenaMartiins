@@ -39,14 +39,40 @@ Gosto de transformar teoria em prática: crio ferramentas de automação em Pyth
 
 ---
 
-### 🚀 Projetos em destaque
+<a name="english"></a>
+## 🇺🇸 About Me
 
-Confira os projetos fixados no meu perfil, incluindo ferramentas de automação e auditoria de segurança feitas em Python.
+Hi, I'm Lorena! 👋
+Information Security Student | Focused on SOC, GRC & Python Automation
+
+I started my tech journey in 2021 with programming (Python, HTML/CSS/JS) and I am currently studying Information Security Technology at UNINOVE.
+
+I am highly interested in security monitoring, SOC (incident response), and GRC/TPRM (governance, risk, and compliance). I love turning theory into practice: I build **Python automation tools** for auditing, data extraction (Web Scraping), and security best practices, helping businesses optimize manual processes and mitigate risks before they become critical issues.
+
+### 🛠️ Tech Stack & Skills
+* **Languages & Scripting:** Python (Selenium, BeautifulSoup, Requests), Bash
+* **Security & Monitoring:** Splunk, SOC (SIEM, EDR, MITRE ATT&CK)
+* **Infrastructure & Cloud:** Docker, AWS, Linux, Cloud Fundamentals (IaaS/PaaS/SaaS)
+* **Compliance:** TPRM/GRC (ISO 27001, LGPD/GDPR)
+
+### 📜 Certifications
+* Fortinet FCF (NSE 1 & 2)
+* CertiProf Cybersecurity Foundation
+* CAISR
+* Cloud Fundamentals (FIAP / Eu Capacito)
 
 ---
 
-### 📫 Vamos conversar
+### 🚀 Projetos em destaque / Featured Projects
+
+Confira os projetos fixados no meu perfil, incluindo ferramentas de automação e auditoria de segurança feitas em Python.
+*Check out my pinned projects below, including automation tools, web scraping, and security auditing scripts built with Python.*
+
+---
+
+### 📫 Vamos conversar / Let's talk
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-martins-a6a57a19b/)
 
 <p align="center"><i>Sempre aberta a novas oportunidades em SOC e GRC 🔐</i></p>
+*Always open to new opportunities in SOC, GRC, and Automation Freelance gigs!*
