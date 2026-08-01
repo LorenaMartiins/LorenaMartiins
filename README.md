@@ -74,7 +74,7 @@ Confira os projetos fixados no meu perfil, incluindo ferramentas de automação 
 
 ### 📫 Vamos conversar / Let's talk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-martins-a6a57a19b/) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorena-martins-a6a57a19b/) [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Lorenna)
 
 <p align="center"><i>Sempre aberta a novas oportunidades em SOC e GRC 🔐</i></p>
 <p align="center"><i>Always open to new opportunities in SOC,GRC,and Automation Freelance gigs!</i></p>
